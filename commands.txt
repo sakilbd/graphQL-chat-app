@@ -1,3 +1,4 @@
 npm init 
 npm install apollo-server graphql
 node server.js
+i donnno 
