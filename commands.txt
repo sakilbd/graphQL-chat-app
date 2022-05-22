@@ -1,4 +1,5 @@
 npm init 
 npm install apollo-server graphql
 node server.js
-i donnno 
+stop node server on windows: taskkill /f /im node.exe
+
